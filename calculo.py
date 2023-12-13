@@ -91,7 +91,7 @@ def calcular_e_exibir_imposto():
 
 # Criar a janela principal
 janela = tk.Tk()
-janela.title("Calculadora de Imposto Forex")
+janela.title("Calculadora de Imposto Forex :)")
 
 # Adicionar widgets à janela
 label_data_entrada = tk.Label(janela, text="Data de Entrada:")
